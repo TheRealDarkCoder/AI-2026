@@ -1,0 +1,3 @@
+Winnings: 2501968300
+Runs: 2000003
+Average winnings: 1251
