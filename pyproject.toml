@@ -9,6 +9,8 @@ package-mode = false
 python = "^3.13"
 jupyter = "^1.1.1"
 matplotlib = "^3.10.8"
+pandas = "^3.0.0"
+scikit-learn = "^1.8.0"
 
 [build-system]
 requires = ["poetry-core"]

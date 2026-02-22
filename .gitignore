@@ -14,3 +14,5 @@ Thumbs.db
 # IDEs
 .vscode/
 .idea/
+
+.csv
